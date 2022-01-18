@@ -64,4 +64,3 @@ Keyboard controls:
 ```2```		- Display mode mask
 
 ```q```		- Quit
-```
