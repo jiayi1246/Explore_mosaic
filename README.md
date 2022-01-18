@@ -14,7 +14,7 @@ Implementation of the data exploration Python application for multi-sensor corre
 
 ## Prerequisites
 * Download the [metadata](https://drive.google.com/file/d/1fULGE1w_DcB7MA02JcIy0g7kYwiC5z08/view?usp=sharing) and unzip it to ```/data/scallops/```
-* Download the MAT files and sonar waterfall images to ```/data/scallops/sonar/```: [20170817_IM](https://drive.google.com/file/d/1peYBaSDPaXbjzY8LGifPp7zFOTS0LuDT/view?usp=sharing), [20170824_VIMS](https://drive.google.com/file/d/1f2f9vOWJVlyf9FIP1pSm-dsCn-AqScX5/view?usp=sharing)
+* Download the MAT files and sonar waterfall images to ```/data/scallops/sonar/```: [20170817_IM](https://drive.google.com/file/d/1peYBaSDPaXbjzY8LGifPp7zFOTS0LuDT/view?usp=sharing), [20170824_VIMS](https://drive.google.com/file/d/1kI-XUpiXqlpDrh_XJg1Bq9aZnUj6CvSv/view?usp=sharing)
 * Download the SuperGlue registration numpy files to ```/data/scallops/superglue_output/```: [20170817_IM](https://drive.google.com/file/d/1f2f9vOWJVlyf9FIP1pSm-dsCn-AqScX5/view?usp=sharing), [20170824_VIMS](https://drive.google.com/file/d/1WAKyMJhuBSrxGlUDwYp3ASA6bkOZzhVl/view?usp=sharing)
 
 ## Usage
